@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TraSenBachDiep", "TraSenBachDiep\TraSenBachDiep.vbproj", "{96C7ADB8-01B4-470E-BB0B-D07303724992}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraSenBachDiep.Common", "TraSenBachDiep.Common\TraSenBachDiep.Common.csproj", "{82B42071-7463-4F1F-8901-E281FDFDE4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraSenBachDiep.Data", "TraSenBachDiep.Data\TraSenBachDiep.Data.csproj", "{814395DB-1627-48E3-B22C-A4D9691EB11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraSenBachDiep.Model", "TraSenBachDiep.Model\TraSenBachDiep.Model.csproj", "{A8E6D7E5-20D2-4532-96AA-06CC6037A0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraSenBachDiep.Service", "TraSenBachDiep.Service\TraSenBachDiep.Service.csproj", "{95792CD5-C9B7-485F-9082-94FE4ECF4486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraSenBachDiep.UnitTest", "TraSenBachDiep.UnitTest\TraSenBachDiep.UnitTest.csproj", "{266A6A49-179D-4F1D-ACEF-BFBEC60F791E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TraSenBachDiep.Web", "TraSenBachDiep.Web\TraSenBachDiep.Web.vbproj", "{2C30472E-5133-4EF0-9DFE-2282E3CBA1A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +21,30 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96C7ADB8-01B4-470E-BB0B-D07303724992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96C7ADB8-01B4-470E-BB0B-D07303724992}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96C7ADB8-01B4-470E-BB0B-D07303724992}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96C7ADB8-01B4-470E-BB0B-D07303724992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B42071-7463-4F1F-8901-E281FDFDE4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B42071-7463-4F1F-8901-E281FDFDE4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B42071-7463-4F1F-8901-E281FDFDE4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B42071-7463-4F1F-8901-E281FDFDE4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814395DB-1627-48E3-B22C-A4D9691EB11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814395DB-1627-48E3-B22C-A4D9691EB11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814395DB-1627-48E3-B22C-A4D9691EB11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814395DB-1627-48E3-B22C-A4D9691EB11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E6D7E5-20D2-4532-96AA-06CC6037A0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E6D7E5-20D2-4532-96AA-06CC6037A0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E6D7E5-20D2-4532-96AA-06CC6037A0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E6D7E5-20D2-4532-96AA-06CC6037A0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95792CD5-C9B7-485F-9082-94FE4ECF4486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95792CD5-C9B7-485F-9082-94FE4ECF4486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95792CD5-C9B7-485F-9082-94FE4ECF4486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95792CD5-C9B7-485F-9082-94FE4ECF4486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266A6A49-179D-4F1D-ACEF-BFBEC60F791E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266A6A49-179D-4F1D-ACEF-BFBEC60F791E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266A6A49-179D-4F1D-ACEF-BFBEC60F791E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266A6A49-179D-4F1D-ACEF-BFBEC60F791E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C30472E-5133-4EF0-9DFE-2282E3CBA1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C30472E-5133-4EF0-9DFE-2282E3CBA1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C30472E-5133-4EF0-9DFE-2282E3CBA1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C30472E-5133-4EF0-9DFE-2282E3CBA1A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

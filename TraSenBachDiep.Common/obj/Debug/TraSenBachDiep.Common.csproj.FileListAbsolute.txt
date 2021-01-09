@@ -1,0 +1,6 @@
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\bin\Debug\TraSenBachDiep.Common.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\bin\Debug\TraSenBachDiep.Common.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\obj\Debug\TraSenBachDiep.Common.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\obj\Debug\TraSenBachDiep.Common.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\obj\Debug\TraSenBachDiep.Common.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Common\obj\Debug\TraSenBachDiep.Common.pdb

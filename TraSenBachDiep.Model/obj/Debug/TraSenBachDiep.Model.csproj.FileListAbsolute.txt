@@ -1,0 +1,12 @@
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\TraSenBachDiep.Model.dll.config
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\TraSenBachDiep.Model.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\TraSenBachDiep.Model.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\EntityFramework.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\EntityFramework.xml
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\obj\Debug\TraSenBachDiep.Model.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\obj\Debug\TraSenBachDiep.Model.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\obj\Debug\TraSenBachDiep.Model.csproj.CopyComplete
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\obj\Debug\TraSenBachDiep.Model.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Model\obj\Debug\TraSenBachDiep.Model.pdb

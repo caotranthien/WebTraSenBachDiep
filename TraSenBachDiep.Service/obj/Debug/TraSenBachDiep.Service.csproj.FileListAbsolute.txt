@@ -1,0 +1,15 @@
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Service.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Service.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Common.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Data.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Model.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Common.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Data.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Data.dll.config
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Model.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\bin\Debug\TraSenBachDiep.Model.dll.config
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\obj\Debug\TraSenBachDiep.Service.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\obj\Debug\TraSenBachDiep.Service.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\obj\Debug\TraSenBachDiep.Service.csproj.CopyComplete
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\obj\Debug\TraSenBachDiep.Service.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Service\obj\Debug\TraSenBachDiep.Service.pdb

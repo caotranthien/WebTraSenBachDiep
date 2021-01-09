@@ -1,0 +1,14 @@
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\TraSenBachDiep.Data.dll.config
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\TraSenBachDiep.Data.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\TraSenBachDiep.Data.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\EntityFramework.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\TraSenBachDiep.Common.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\TraSenBachDiep.Common.pdb
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\EntityFramework.xml
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\obj\Debug\TraSenBachDiep.Data.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\obj\Debug\TraSenBachDiep.Data.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\obj\Debug\TraSenBachDiep.Data.csproj.CopyComplete
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\obj\Debug\TraSenBachDiep.Data.dll
+C:\Users\trant\source\repos\TraSenBachDiep\TraSenBachDiep.Data\obj\Debug\TraSenBachDiep.Data.pdb

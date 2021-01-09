@@ -55,6 +55,28 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TraSenBachDiep.Common\TraSenBachDiep.Common.csproj">
+      <Project>{82b42071-7463-4f1f-8901-e281fdfde4dc}</Project>
+      <Name>TraSenBachDiep.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TraSenBachDiep.Data\TraSenBachDiep.Data.csproj">
+      <Project>{814395db-1627-48e3-b22c-a4d9691eb11e}</Project>
+      <Name>TraSenBachDiep.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TraSenBachDiep.Model\TraSenBachDiep.Model.csproj">
+      <Project>{a8e6d7e5-20d2-4532-96aa-06cc6037a0d6}</Project>
+      <Name>TraSenBachDiep.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TraSenBachDiep.Service\TraSenBachDiep.Service.csproj">
+      <Project>{95792cd5-c9b7-485f-9082-94fe4ecf4486}</Project>
+      <Name>TraSenBachDiep.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TraSenBachDiep.Web\TraSenBachDiep.Web.vbproj">
+      <Project>{2c30472e-5133-4ef0-9dfe-2282e3cba1a2}</Project>
+      <Name>TraSenBachDiep.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
