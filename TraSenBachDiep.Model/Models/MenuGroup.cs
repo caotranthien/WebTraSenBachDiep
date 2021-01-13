@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace TraSenBachDiep.Model.Models
 {
     [Table("MenuGroup")]
-    class MenuGroup
+    public class MenuGroup
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
